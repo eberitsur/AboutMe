@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="Name">Eber</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre es eber iván zamudio guzmán
+    \n\n  estudio ingenieria en sistemas computacionales, ¡en el itsur!, me gusta programar aunque se me dificulta hacerlo,\n no soy bueno socializando pero encontre buenos amigos con los cuales puedo compartir mis horas libres y apoyarme asi como para apoyarlos cuando lo necesitan
+    \n\n respecto a mis hobbies, me gusta ver animes, me gustan los videojuegos, practicar artes marciales y jugar ajedrez.
+    \n\n tengo 23 años, sigo soltero, no tengo mucho dinero pero tengo las cosas que quiero
+    \n\n
+    ya no se que escribir, pero esto es para rellenar nadams XD</string>
+</resources>
